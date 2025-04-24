@@ -3,9 +3,11 @@
 
 ## 🧱 ER Diagram Preview
 
-👉 **[Click to View the Bookstore ERD on dbdiagram.io](https://dbdiagram.io/e/6809e3a41ca52373f52748ac/6809e61f1ca52373f527b419)**
+![Bookstore Schema](assets/Bookstore.png)
 
-![View ERD](https://img.shields.io/badge/View-ER%20Diagram-blue?style=for-the-badge&logo=mysql&link=https://dbdiagram.io/e/6809e3a41ca52373f52748ac/6809e61f1ca52373f527b419)
+<p align="center">
+  <img src="assets/Bookstore.png" alt="Schema" width="80%">
+</p>
 
 ---
 
@@ -19,12 +21,12 @@ This is a full-stack SQL-based database system for managing a bookstore's operat
 
 | File | Description |
 |------|-------------|
+| `bookstore.sql` | SQL for the whole project |
 | `schema.sql` | SQL code to create all database tables |
 | `sample_data.sql` | Optional: sample inserts to test relationships |
 | `users_roles.sql` | SQL to create MySQL users with permissions |
-| `queries.sql` | Sample queries for data analysis |
 | `README.md` | Documentation |
-| `bookstore_erd.drawio` | Visual ERD schema (optional) |
+| `Bookstore.png` | Visual ERD schema |
 
 ---
 
