@@ -33,9 +33,9 @@ This is a full-stack SQL-based database system for managing a bookstore's operat
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/bookstore-db-project.git
-cd bookstore-db-project
+git clone https://github.com/your-username/BookStore.git
+cd BookStore
 
 # Open MySQL and run
-SOURCE schema.sql;
+SOURCE bookstore.sql;
 SOURCE users_roles.sql;
