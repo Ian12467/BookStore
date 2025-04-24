@@ -5,6 +5,7 @@
 
 ![Bookstore Schema](assets/Bookstore.png)
 
+![Demo](assets/demo.gif)
 
 ---
 
