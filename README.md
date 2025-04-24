@@ -21,7 +21,8 @@ This is a full-stack SQL-based database system for managing a bookstore's operat
 |------|-------------|
 | `bookstore.sql` | SQL for the whole project |
 | `schema.sql` | SQL code to create all database tables |
-| `sample_data.sql` | Optional: sample inserts to test relationships |
+| `sample_data.sql` | Inserts statements to test the relationships |
+| `test.sql` | Queries to confirm the functionality of the relationships |
 | `users_roles.sql` | SQL to create MySQL users with permissions |
 | `README.md` | Documentation |
 | `Bookstore.png` | Visual ERD schema |
