@@ -5,9 +5,6 @@
 
 ![Bookstore Schema](assets/Bookstore.png)
 
-<p align="center">
-  <img src="assets/Bookstore.png" alt="Schema" width="80%">
-</p>
 
 ---
 
