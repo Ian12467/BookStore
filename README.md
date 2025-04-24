@@ -1,4 +1,3 @@
-# BookStore
 # 📘 BookStore Database Project
 
 ## 🧱 ER Diagram Preview
